@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var TouchPackage = require('../lib/index.js');
+new TouchPackage().exec();

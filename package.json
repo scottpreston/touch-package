@@ -1,0 +1,23 @@
+{
+    "name": "touch-package",
+    "version": "0.1.0",
+    "description": "allows you to create a blank package.json from command line",
+    "main": "lib/index.js",
+    "bin": {
+        "touch-package": "bin/package-bower"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/scottpreston/touch-package"
+    },
+    "keywords": [
+        "npm init",
+        "blank package.json"
+    ],
+    "author": "Scott Preston",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/scottpreston/touch-package/issues"
+    },
+    "preferGlobal": "true"
+}
